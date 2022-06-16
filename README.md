@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anantraj1
-- 👀 I’m interested in 
-- 🌱 I’m currently learning java and web designing
+- 👋 Hi, I’m @Dinbandhu Kumar 
+- 👀 I’m interested in working in IT Sectore
+- 🌱 I’m currently learning java and some concept of Web Technology
 - 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me ...
 
